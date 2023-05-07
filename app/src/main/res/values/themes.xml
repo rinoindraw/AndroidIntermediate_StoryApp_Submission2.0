@@ -1,0 +1,72 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.StoryBismillahKeSekian" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_sky</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_sky</item>
+        <item name="colorSecondaryVariant">@color/blue_sky</item>
+        <item name="colorOnSecondary">@color/dark_blue_sky</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/light_blue_sky</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementsUseOverlay">false</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/blue_sky</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_sky</item>
+        <item name="colorSecondaryVariant">@color/blue_sky</item>
+        <item name="colorOnSecondary">@color/dark_blue_sky</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/light_blue_sky</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementsUseOverlay">false</item>
+    </style>
+
+    <style name="AuthTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/blue_sky</item>
+        <item name="colorPrimaryVariant">@color/soft_dark_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_sky</item>
+        <item name="colorSecondaryVariant">@color/blue_sky</item>
+        <item name="colorOnSecondary">@color/dark_blue_sky</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/light_blue_sky</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementsUseOverlay">false</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textColor">@color/dark_blue_sky</item>
+        <item name="fontFamily">@font/tilt_warp</item>
+    </style>
+
+    <style name="Text.Title">
+        <item name="fontFamily">@font/tilt_warp</item>
+        <item name="android:textColor">@color/blue_sky</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="editText">
+        <item name="android:textColorHint">@color/dark_blue_sky</item>
+        <item name="android:textColor">@color/dark_blue_sky</item>
+        <item name="android:fontFamily">@font/tilt_warp</item>
+    </style>
+
+    <style name="button_style">
+        <item name="android:fontFamily">@font/tilt_warp</item>
+    </style>
+</resources>

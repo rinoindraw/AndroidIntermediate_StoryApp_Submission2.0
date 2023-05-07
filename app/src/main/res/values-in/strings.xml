@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Rino Story App</string>
+    <string name="new_to_story">New to Story?</string>
+    <string name="register">Daftar</string>
+    <string name="already_have_an_account">Sudah memiliki akun?</string>
+    <string name="login">Login</string>
+    <string name="press_again_to_exit">Ketuk lagi untuk keluar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full name</string>
+    <string name="et_email_error_message">Email address tidak valid</string>
+    <string name="registration_error_message">Registration gagal, silahkan coba kembali.</string>
+    <string name="registration_success">Registration berhasil</string>
+    <string name="login_error_message">Login gagal, silahkan coba kembali.</string>
+    <string name="login_success_message">Login berhasil</string>
+    <string name="dummy_description" translatable="false">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsu....</string>
+    <string name="story_s_illustration">Story\'s illustration</string>
+    <string name="stories">Stories</string>
+    <string name="logout">Logout</string>
+    <string name="create_story">Buat story</string>
+    <string name="error_occurred_message">Ada error yang terjadi</string>
+    <string name="story_illustration">Story illustration</string>
+    <string name="detail_toolbar_title">%s\'s story</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="stories_not_found_error">Stories tidak ditemukan</string>
+    <string name="add_story_title">Add Story</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="person_with_computer">Person with computer</string>
+    <string name="select_image">Pilih gambar dari</string>
+    <string name="select_from_camera">Camera</string>
+    <string name="select_from_gallery">Gallery</string>
+    <string name="write_a_description">Tulis deksripsi gambar</string>
+    <string name="desc_empty_field_error">Tolong isi kolom deksripsi</string>
+    <string name="empty_image_error">Tolong pilih gambar</string>
+    <string name="image_upload_failed">Story upload failed</string>
+    <string name="story_upload">Story uploaded</string>
+    <string name="language_setting">Pengaturan bahasa</string>
+    <string name="title_activity_home" translatable="false">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="location">Location</string>
+    <string name="share_location">Berbagi Lokasi</string>
+    <string name="location_permission_denied">Izin lokasi tidak diizinkan</string>
+    <string name="location_permission_denied_action">Ubah Pengaturan</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="loading_error_message">Unable to fetch stories data</string>
+    <string name="logout_dialog_title">Kamu Yakin??</string>
+    <string name="logout_dialog_message">Kamu harus login kembali setelah log out</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout_message_success">Logged out berhasil</string>
+    <string name="please_activate_location_message">Tolong aktifkan layanan lokasi</string>
+
+    <string name="app_widget_description">Story App Image Banner Widget</string>
+    <string name="appwidget_text">Story Image Banner</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="message_unknown_state">Unknown State</string>
+    <string name="title_login">Hello, Story Explorers</string>
+    <string name="desc_login">Welcome to an innovative and exciting platform for story lovers worldwide. Enjoy :)</string>
+    <string name="error_less_than_eight">Password must be at least 8 characters</string>
+    <string name="desc_register">Please register to capture the full experience and unlock access to exclusive features 📷</string>
+    <string name="title_register">"Let's Register "</string>
+    <string name="tools_name">Taylor Swift</string>
+    <string name="tools_date">April 25, 2023</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upload_button">Upload</string>
+    <string name="create">Create</string>
+    <string name="account_icon">Account</string>
+    <string name="dummy_date" translatable="false">April 25, 2023</string>
+    <string name="explorers">Explorers</string>
+    <string name="error_empty_name">Tolong isi nama kamu</string>
+    <string name="create_title">Create Story</string>
+    <string name="camera_description">Camera</string>
+    <string name="user">User</string>
+</resources>
